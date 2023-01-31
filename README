@@ -1,0 +1,7 @@
+### On setting up .editorconfig for Vscode
+* Install editor config plugin from editorconfig.org
+* Right click on the project and generate editorconfig
+* Ctrl + P Prerences : Open workspace settings - Format on paste
+* Ctrl + P Prerences : Open workspace settings - Format on save
+* Ctrl + P Prerences : Open workspace settings - Detect Indentation
+* Do npm install -g editorconfig
